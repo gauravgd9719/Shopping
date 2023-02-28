@@ -1,5 +1,5 @@
-#Lithium
 ## Project - Products Management
+This is a Backend part of Shopping websites where user can buy product according to his or her need. In this project User can buy product, user can add product in the cart, user can order this product after adding product in the card. 
 
 ### Key points
 - In this project we will work feature wise. That means we pick one object like user, book, blog, etc at a time. We work through it's feature. The steps would be:
